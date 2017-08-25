@@ -1,0 +1,4 @@
+pl\mati\downloadManager\controllers\DownloadManagerController.class
+pl\mati\downloadManager\model\Download.class
+pl\mati\downloadManager\view\Main.class
+pl\mati\downloadManager\view\App.class
